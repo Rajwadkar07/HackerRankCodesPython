@@ -1,4 +1,4 @@
-cnt = 0
+    cnt = 0
     valley = 0
     for i in path:
         if i == "U":
