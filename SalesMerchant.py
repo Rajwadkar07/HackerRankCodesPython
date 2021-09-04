@@ -12,4 +12,4 @@
                 pass
         if ind_cnt >= 2:
             cnt += ind_cnt//2
-    return(cnt)
+    return cnt
