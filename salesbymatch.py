@@ -1,3 +1,4 @@
+def sockMerchant(n, ar):
     num = []
     cnt = 0
     for i in ar:
