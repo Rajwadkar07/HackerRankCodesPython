@@ -1,3 +1,4 @@
+def jumpingOnClouds(c):
     j = 0
     for i in range(len(c)):
         k = 0
