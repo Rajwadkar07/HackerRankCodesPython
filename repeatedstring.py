@@ -1,3 +1,4 @@
+def repeatedString(s, n):    
     l = 0
     count = 0
     if len(s) == 1:
