@@ -12,11 +12,11 @@ def jumpingOnClouds(c):
                 i += 2
                 continue
         except:
-            break
+            pass
         #else increase step over 1 elements
         steps += 1
         i += 1
-    return steps
+    return steps-1
 
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
